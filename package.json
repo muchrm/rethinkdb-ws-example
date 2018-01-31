@@ -1,0 +1,12 @@
+{
+  "author": "",
+  "name": "serverstats",
+  "version": "0.0.0",
+  "repository": "websockets/ws",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "express": "~4.14.0",
+    "rethinkdb": "^2.3.3",
+    "ws": "^4.0.0"
+  }
+}
